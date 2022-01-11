@@ -24,6 +24,8 @@
   a {
     position: relative;
     z-index: 10;
+    text-decoration: none;
+    font-size: $type-size-6;
   }
 
   a[rel="permalink"] {
@@ -74,12 +76,11 @@
 
 .archive__item-excerpt {
   margin-top: 0;
-  font-size: $type-size-6;
 
   & + p {
     text-indent: 0;
   }
-
+  
   a {
     position: relative;
   }
@@ -217,9 +218,10 @@
   .archive__item-excerpt {
     display: none;
 
+
     @include breakpoint($medium) {
       display: block;
-      font-size: $type-size-6;
+      font-size: $type-size-7;
     }
   }
 

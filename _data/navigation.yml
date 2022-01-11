@@ -1,12 +1,51 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "About"
+    url: /about/
+  - title: "Portfolio"
+    url: /portfolio/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+# portfolio links
+portfolio:
+  - title: Articles
+    children:
+      - title: "Onboarding guide"
+        url: /portfolio/01-datatochart/
+      - title: "System tool documentation"
+        url: /portfolio/00-aggregatebyvalues/
+      - title: "Tutorials"
+        url: /portfolio/02-rates/
+      - title: "General information help center article"
+        url: /portfolio/evapcooling/
+      - title: "Products differences description"
+        url: /portfolio/threeevas/
+  - title: Text designed
+    children:
+      - title: "Facebook pic post"
+        url: /portfolio/03-connector/
+      - title: "Marketing whitepaper"
+        url: /portfolio/cuttingcostswp/ 
+      - title: "Welcome message"
+        url: /portfolio/04-welcomemessage/
+      - title: "New Year's postcard"
+        url: /portfolio/happyny19/        
+  - title: Regular posting
+    children:
+      - title: "Changelog post"
+        url: /portfolio/changelog/
+      - title: "Changelog post 2"
+        url: /portfolio/changelog2/
+      - title: "Crowdfunding campaign post"
+        url: /portfolio/evasmartigg/
+  - title: Videos
+    children:
+      - title: "Online software"
+        url: /portfolio/vidsoftware/
+      - title: "Hardware"
+        url: /portfolio/vidhardware/

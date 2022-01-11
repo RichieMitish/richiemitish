@@ -110,8 +110,8 @@ blockquote {
   margin: 2em 1em 2em 0;
   padding-left: 1em;
   padding-right: 1em;
-  font-style: italic;
-  border-left: 0.25em solid $primary-color;
+  font-style: normal; 
+  border-left: 0.35em solid $primary-color;
 
   cite {
     font-style: italic;
@@ -317,12 +317,12 @@ nav {
   /* override white-space for nested lists */
   ul li,
   ol li {
-    margin-bottom: 0;
+    margin-bottom: 5px;
   }
 
   li ul,
   li ol {
-    margin-top: 0;
+    margin-top: 15px;
   }
 }
 
