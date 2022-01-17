@@ -511,13 +511,13 @@
   border-radius: $border-radius;
 
   .nav__title {
-    color:#67868b;
+    color: $dark-gray;
     font-size: $type-size-6;
     /* background: $primary-color; */
     border-top-left-radius: $border-radius;
     border-top-right-radius: $border-radius;
     text-transform: uppercase;
-
+    border-bottom: 5px solid $border-color;
   }
 
   // Scrollspy marks toc items as .active when they are in focus
@@ -535,10 +535,9 @@
   padding-left: 0.5rem;
   width: 100%;
   list-style: none;
-  font-size: $type-size-6;
 
   @include breakpoint($large) {
-    font-size: $type-size-7;
+    font-size: $type-size-5; // toc menu size
   }
 
   a {
@@ -555,11 +554,13 @@
 
   li ul > li a {
     padding-left: 1.25rem;
-    font-weight: normal;
+   font-size: $type-size-4;
+   font-weight: normal;
   }
 
   li ul li ul > li a {
-    padding-left: 1.75rem;
+   font-size: $type-size-3;
+   padding-left: 1.75rem;
   }
 
   li ul li ul li ul > li a {

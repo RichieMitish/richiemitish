@@ -89,7 +89,7 @@ body {
 
 .page__content {
   h2 {
-    padding-bottom: 0.5em;
+    padding-bottom: 0em;
     border-bottom: 1px solid $border-color;
   }
 
@@ -110,10 +110,17 @@ body {
 		}
 	}
 
-  p,
+  /* text on page size */
+  p {
+    /*  font-size: 0.75em; */
+    font-size: $type-size-6; 
+  }
+
+  /* lists and ToC size */
   li,
   dl {
-    font-size: 1em;
+    /*  font-size: 0.75em; */
+    font-size: $type-size-6; 
   }
 
   /* paragraph indents */

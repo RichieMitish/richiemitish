@@ -25,7 +25,7 @@
     position: relative;
     z-index: 10;
     text-decoration: none;
-    font-size: $type-size-6;
+    font-size: $type-size-5;
   }
 
   a[rel="permalink"] {
@@ -76,7 +76,7 @@
 
 .archive__item-excerpt {
   margin-top: 0;
-
+  
   & + p {
     text-indent: 0;
   }
@@ -90,6 +90,7 @@
   position: relative;
   border-radius: $border-radius;
   overflow: hidden;
+  filter: drop-shadow(0 0 5px rgba(56, 56, 56, 0.226));
 
   img {
     width: 100%;
