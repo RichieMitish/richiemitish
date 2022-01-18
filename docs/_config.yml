@@ -5,9 +5,9 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-theme: minimal-mistakes-jekyll
-# remote_theme             : "mmistakes/minimal-mistakes@4.24.0"
+remote_theme             : "mmistakes/minimal-mistakes@4.24.0"
 
+# theme: minimal-mistakes-jekyll
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
@@ -66,9 +66,6 @@ defaults:
       share: false
       sidebar:
         nav: "portfolio"
-
-
-theme: minimal-mistakes-jekyll
 
 collections:
   portfolio:
