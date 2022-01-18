@@ -1,18 +1,12 @@
 ---
 layout: single
 title: "Product line description"
-excerpt: "Which device does one need and why"
+excerpt: "Info on which device does one need and why"
 header:
   teaser: /assets/images/teasers/threeevas.png
 toc: true
 toc_sticky: true
 ---
-
-<!--
-sidebar:
-  - title: "Use case"
-    text: "New customers and employees intro guide"
--->
 
 <div class="usecase">
 

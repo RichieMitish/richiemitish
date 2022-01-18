@@ -1,17 +1,12 @@
 ---
 layout: single
 title: "Marketing whitepaper"
-excerpt: "Marketing whitepaper"
+excerpt: "The part about achieving the goal with the means of the platform"
 classes: wide
 toc: false
 header:
   teaser: /assets/images/teasers/markwp.png
 ---
-
-<!-- sidebar:
-  - title: "Use case"
-    text: "Device registration"
--->
 
 <div class="usecase">
 

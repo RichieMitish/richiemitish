@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "Changelog post"
-excerpt: "One of the regular changelog updates"
+title: "Changelog"
+excerpt: "One of the regular changelog posts"
 header:
   teaser: /assets/images/teasers/changelog.png
 toc: true

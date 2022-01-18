@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Feature description and howto's"
+title: "Feature info and howto's"
 excerpt: "Different level tutorials on how to work with a certain feature"
 header:
   teaser: /assets/images/teasers/rates.png
@@ -20,7 +20,7 @@ toc_sticky: true
 
   <strong>Solution</strong><br>
   <em>Rates</em> page.<br>
-  A proper scenario and data set were developed to demonstrate all the side of this feature. In cooperation with Support team, the key points of its daily usage were highlighted. For the shorter tutorial a simple video was created whereas the more in-depth one became a series of two videos plus an additional third one - with the purely technical part of the feature.<br>     
+  A proper scenario and data set were developed to demonstrate all the sides of this feature. In cooperation with Support team, the key points of its daily usage were highlighted. For the shorter tutorial a simple video was created whereas the more in-depth one became a series of two videos plus an additional third one - with the purely technical part of the feature.<br>     
   <a href="/assets/images/teasers/rates.png"><img src="/assets/images/teasers/rates.png"></a><br>
   &nbsp;
 

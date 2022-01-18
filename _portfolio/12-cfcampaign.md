@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "Crowfunding campaign update"
-excerpt: "One of the crowdfunding campaign's regular updates"
+title: "Crowdfunding campaign"
+excerpt: "One of the regular crowdfunding campaign updates"
 classes: wide
 toc: false
 header:

@@ -17,9 +17,9 @@ portfolio:
     children:
       - title: "Intro guide"
         url: /portfolio/00-introguide/
-      - title: "Visual editor tool documentation"
+      - title: "Visual editor tool info"
         url: /portfolio/01-tooldoc/
-      - title: "Feature description and howto's"
+      - title: "Feature info and howto's"
         url: /portfolio/02-feature/
       - title: "Tutorial"
         url: /portfolio/03-tutorial/        
@@ -27,7 +27,7 @@ portfolio:
         url: /portfolio/04-trblsht/
       - title: "Product line description"
         url: /portfolio/05-hc_product/
-      - title: "Working principle description"
+      - title: "Working principle info"
         url: /portfolio/06-hc_general/
   - title: Text designed
     children:

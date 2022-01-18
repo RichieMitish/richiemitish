@@ -1,17 +1,12 @@
 ---
 layout: single
 title: "New Year's card"
-excerpt: "A card with a new product announcement"
+excerpt: "A holiday card with a new product announcement"
 classes: wide
 toc: false
 header:
   teaser: /assets/images/teasers/nycard.jpg
 ---
-
-<!-- sidebar:
-  - title: "Use case"
-    text: "Device registration"
--->
 
 <div class="usecase">
 

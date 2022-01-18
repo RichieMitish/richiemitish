@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Visual editor tool documentation"
+title: "Visual editor tool info"
 excerpt: "Description, parameters and usage examples for one of the platform's Visual editor tools"
 header:
   teaser: /assets/images/teasers/aggregatebyvalues.png

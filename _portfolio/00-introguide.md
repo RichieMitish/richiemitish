@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Intro guide"
-excerpt: "Product intro guide for the platform's basic scenario"
+excerpt: "Product intro guide as the platform's basic scenario"
 header: 
   teaser: /assets/images/teasers/datatochart.png
 toc: true

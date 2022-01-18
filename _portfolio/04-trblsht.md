@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Troubleshooting errors"
-excerpt: "Error messages, causes, solutions"
+excerpt: "Platform module's error messages, causes, solutions"
 header:
   teaser: /assets/images/teasers/trblsht.png
 toc: true

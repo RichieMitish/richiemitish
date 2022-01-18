@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Tutorial"
-excerpt: "Step-by-step tutorial on a certain option?"
+excerpt: "Step-by-step text tutorial"
 header:
   teaser: /assets/images/teasers/tutorial.png
 toc: true
@@ -63,6 +63,7 @@ Add the [**Input Integration**](../../mm/comp_inputintegration.html){: .demolink
     Label it using these templates:<br> 
     - `_mediaSourceName_integrationId_anyNote_`
     - `_dataSourceName_integrationId_mediaSourceName_` - for the Files module<br>
+    
     **Examples:** <br>
     - `appsflyer_999_android_by_installs`
     - `files_998_someSemiAutomatedDataSource`
@@ -72,11 +73,14 @@ Add the [**Input Integration**](../../mm/comp_inputintegration.html){: .demolink
     
 2. **Data to collect**
     1. In the component's settings sidebar, select those **Breakdowns** (`entities`) and **Metrics** (`metrics`) that you want to collect from that data source and put into the data columns of your MM integration.
+        
         <a href="/assets/images/tutorial/ninp_02.png"><img class="align-center dropshadow" src="/assets/images/tutorial/ninp_02.png"></a>
         
         **Example:** we're adding the integration 206 as a new data source and collecting "Date", "Campaign" and "Purchases" from it.<br>
     2. If there are any [filters](../../mm/inputfilters.html){: .demolink} or [macros](../../mm/macros/whyreuse.html){: .demolink} you'd like to apply, switch to the JSON-code view and write them out in `filters`.
+          
     3. If there is some meta data fields that you wish to collect, enter the paths in `meta`.
+        
         <a href="/assets/images/tutorial/ninp_03.png"><img class="align-center dropshadow" src="/assets/images/tutorial/ninp_03.png"></a>
                 
         **Example:** we don't have to use macros or filter the stats, or to collect the meta data, so the corresponding fields are empty.
@@ -87,9 +91,7 @@ For debugging purposes, it is recommended to add the `data_source` tech field ("
 <a href="/assets/images/tutorial/data_source_imp.png"><img class="align-center dropshadow" src="/assets/images/tutorial/data_source_imp.png"></a>
 
 - `key` - `data_source`
-- `value` must be the same as the [**Input Integration**](../../mm/comp_inputintegration.html){: .demolink} node's label, eg: 
-    * `_mediaSourceName_integrationId_`
-    * `_dataSourceName_integrationId_mediaSourceName_` 
+- `value` must be the same as the [**Input Integration**](../../mm/comp_inputintegration.html){: .demolink} node's label, eg: `_mediaSourceName_integrationId_`, `_dataSourceName_integrationId_mediaSourceName_` 
 - node label: `data_source_integrationId_`
 
 <a href="/assets/images/tutorial/ninp_04.png"><img class="align-center dropshadow" src="/assets/images/tutorial/ninp_04.png"></a>

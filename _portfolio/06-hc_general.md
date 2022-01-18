@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "Working principle description"
-excerpt: "The working principle of those devices used to confuse many people"
+title: "Working principle info"
+excerpt: "Key points and hints, as it used to confuse many people"
 header:
   teaser: /assets/images/teasers/evapcooling.png
 toc: true
