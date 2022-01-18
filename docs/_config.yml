@@ -17,7 +17,7 @@ title_separator          : "-"
 subtitle                 : "Technical writer"
 name                     : &name "Richie Mitish" # &name is a YAML anchor which can be *referenced later
 description              : &description "A regular technical writer's portfolio"
-url                      : https://mmistakes.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://vcuriousfox.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "testpage" # the subpath of your site, e.g. "/blog"
 repository               : "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -44,50 +44,22 @@ comments:
     category_name        : # Full text name of the category
     category_id          : # Shown during giscus setup at https://giscus.app
     discussion_term      : # "pathname" (default), "url", "title", "og:title"# Defaults
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: # true
-      share: true
-      related: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: false
-      share: false
-      sidebar:
-        nav: "portfolio"
-
-collections:
-  portfolio:
-    output: true
-    permalink: /:collection/:path/+h+i2IvewpuxtA9TFoK68TuhUp/X3YKmmqhXasegHYabY50fqF9nJh9npWNhvITdkQHeaOqnFXUIwxfiEeUt49Yoa2waRR7a5LdRAP3SVM8hz0KIBT4="
 
 atom_feed:
   path                   : # blank (default) uses feed.xml
 
-search                   : true # true, false (default)
-search_full_content      : true # true, false (default)
-search_provider          : algolia # lunr (default), algolia
+search                   : false # true, false (default)
+search_full_content      : false # true, false (default)
+search_provider          : # algolia lunr (default), algolia
 algolia:
-  application_id         : QB6HVGBSBA # YOUR_APPLICATION_ID
-  index_name             : minimal_mistakes # YOUR_INDEX_NAME
-  search_only_api_key    : 9d5014e5bbc77372547bce778dfa5663 # YOUR_SEARCH_ONLY_API_KEY
-  powered_by             : true # true (default), false
+  application_id         : # YOUR_APPLICATION_ID
+  index_name             : # YOUR_INDEX_NAME
+  search_only_api_key    : # YOUR_SEARCH_ONLY_API_KEY
+  powered_by             : # true (default), false
   files_to_exclude:
-    - _posts/2017-11-28-post-exclude-search.md
 
 # SEO Related
-google_site_verification : "UQj93ERU9zgECodaaXgVpkjrFn9UrDMEzVamacSoQ8Y" # Replace this with your ID, or delete
+google_site_verification : # Replace this with your ID, or delete
 bing_site_verification   :
 naver_site_verification  :
 yandex_site_verification :
@@ -95,9 +67,9 @@ baidu_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : &twitter "mmistakes"
+  username               : # &twitter "mmistakes"
 facebook:
-  username               : &facebook "michaelrose"
+  username               : # &facebook "michaelrose"
   app_id                 :
   publisher              :
 og_image                 : "/assets/images/site-logo.png" # Open Graph/Twitter default site image
@@ -107,51 +79,56 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-    - "https://twitter.com/mmistakes"
-    - "https://www.facebook.com/michaelrose"
+    - "https://twitter.com/"
+    - "https://www.facebook.com/"
 
 # Analytics
 analytics:
-  provider               : "google-universal" # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider               : # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id          : "UA-2011187-3" # Replace this with your ID, or delete
+    tracking_id          : # Replace this with your ID, or delete
     anonymize_ip         : true
 
 
 # Site Author
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
-  avatar           : "/assets/images/michael-rose.jpg"
-  bio              : "Just another *boring*, *tattooed*, *time traveling*, *designer*."
-  location         : "Buffalo, NY"
+  avatar           : # "/assets/images/michael-rose.jpg"
+  bio              : # "Just an everyday regular normal technical writer."
+  location         : "Saint Petersburg, RU"
+  email            :
   links:
-    - label: "Made Mistakes"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:your.name@email.com"
+    - label: "hh.ru"
       icon: "fas fa-fw fa-link"
-      url: "https://mademistakes.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/mmistakes"
+      url: "https://your-website.com"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://your-website.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/mmistakes"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/mmistakes"
-
+      url: "https://github.com/"
+    - label: "Portfolio"
+      icon: "fas fa-fw fa-link"
+      url: "https://your-website.com"
 
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/mmistakes"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:your.name@email.com"
+    - label: "hh.ru"
+      icon: "fas fa-fw fa-link"
+      url: "https://your-website.com"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://your-website.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/mmistakes"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/mmistakes"
-
+      url: "https://github.com/"
 
 # Reading Files
 include:
@@ -210,19 +187,9 @@ kramdown:
 
 # Collections
 collections:
-  docs:
-    output: true
-    permalink: /:collection/:path/
-  recipes:
-    output: true
-    permalink: /:collection/:path/
-  pets:
-    output: true
-    permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
-
 
 # Defaults
 defaults:
@@ -247,12 +214,6 @@ defaults:
       share: false
       sidebar:
         nav: "portfolio"
-
-
-collections:
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
 
 
 # Sass/SCSS
@@ -297,12 +258,12 @@ whitelist:
 #  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
 #  - <base_path>/categories/my-awesome-category/index.html ~> path: /categories/
 #  - <base_path>/my-awesome-category/index.html ~> path: /
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
+# category_archive:
+#  type: liquid
+#  path: /categories/
+# tag_archive:
+#  type: liquid
+#  path: /tags/
 # https://github.com/jekyll/jekyll-archives
 # jekyll-archives:
 #   enabled:
