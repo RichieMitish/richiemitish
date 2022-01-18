@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-gem "jekyll"
+# gem "jekyll"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment in the line below. To upgrade, run 'bundle update guthub-pages'.
