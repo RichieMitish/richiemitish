@@ -12,7 +12,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Richie' Portfolio"
+title                    : "Richie's Portfolio"
 title_separator          : "-"
 subtitle                 : "Technical writer"
 name                     : &name "Richie Mitish" # &name is a YAML anchor which can be *referenced later
@@ -94,7 +94,7 @@ analytics:
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
   avatar           : # "/assets/images/michael-rose.jpg"
-  bio              : # "Just an everyday regular normal technical writer."
+  bio              : "Just an everyday regular normal technical writer."
   location         : "Saint Petersburg, RU"
   email            :
   links:
