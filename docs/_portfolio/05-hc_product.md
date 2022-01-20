@@ -8,17 +8,19 @@ toc: true
 toc_sticky: true
 ---
 
-<div class="usecase">
+<div class="sampleinfo">
 
   <br>
-  <strong>USE CASE</strong> <br><br>
-
-  <strong>Problem</strong><br>
+  <strong>Request</strong><br>
   Company's product line needed a proper description of each product.<br><br>
   
   <strong>Solution</strong><br>
   <em>How are the three devices different</em> Help center article.<br>
-  The text tells about each device, not only listing their features but also pointing out the differences in devices' usage that they would make for the device owner.<br><br>
+  To gather all the points on a single page, I wrote a text that was telling about each device. It was not only listing their features but also pointing out the differences in devices' usage that they would make for a device owner.<br><br>
+  
+  <strong>Platform and tools used</strong><br>
+  Zendesk Help Center; platform's article editor.<br><br> 
+
   <a href="/assets/images/teasers/threeevas.png"><img src="/assets/images/teasers/threeevas.png"></a><br>
   &nbsp;
 

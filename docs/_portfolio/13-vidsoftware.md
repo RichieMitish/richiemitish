@@ -8,16 +8,17 @@ toc: true
 toc_sticky: true
 ---
 
-<div class="usecase">
+<div class="sampleinfo">
 
   <br>
-  <strong>USE CASE</strong> <br><br>
-
-  <strong>Problem</strong><br>
+  <strong>Request</strong><br>
   Some of the platform's features required a video tutorial, guide, story, etc.<br><br>
   
   <strong>Solution</strong><br>
-  Depending on what exactly was needed, a scenario was developed following with a proper data set that would allow demonstrating the points in question. The latter were often additionally discussed with Support and/or developer teams so that the info was accurate.<br>
+  Depending on what exactly was needed, I developed a scenario and a proper data set that would allow demonstrating the points in question. The latter were often additionally discussed with Support and/or developer teams so that the info was accurate.<br><br>
+
+  <strong>Tools used</strong><br>
+  iMovie, Movavi Video Editor<br> 
   &nbsp;
 
 </div>

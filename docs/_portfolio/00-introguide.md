@@ -8,17 +8,19 @@ toc: true
 toc_sticky: true
 ---
 
-<div class="usecase">
+<div class="sampleinfo">
 
 <br>
-  <strong>USE CASE</strong> <br><br>
-
-  <strong>Problem</strong><br>
+  <strong>Request</strong><br>
   To ensure a proper onboarding process, an intro guide was required for the platform. It had to provide a better understanding of the main steps of the workflow, platform's tools and options available even for the basic case scenario.<br><br>
 
   <strong>Solution</strong><br>
   <em>Turning raw data into a useful chart</em> guide.<br>
   After shaping and analyzing a few possible customer journey maps for our platfrom, I chose this particular one for being the most user friendly and profitable. All the necessary parts of the workflow were created both for the guide's screenshots and flow and to be used as demo parts in future. For the new customers and employees that had a dedicated environment (demo or their own account), those demo parts were available to play with, following this guide.<br><br>
+  
+  <strong>Platform and tools used</strong><br>
+  Docs site run on a static site generator; Git, VSCode, Markdown, Mac OS image editors.<br><br> 
+
   <a href="/assets/images/teasers/datatochart.png"><img src="/assets/images/teasers/datatochart.png"></a><br>
   &nbsp;
 

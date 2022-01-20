@@ -8,17 +8,15 @@ toc: true
 toc_sticky: true
 ---
 
-<div class="usecase">
+<div class="sampleinfo">
 
   <br>
-  <strong>USE CASE</strong> <br><br>
-    
-  <strong>Problem</strong><br>
+  <strong>Request</strong><br>
   The error messages that appeared upon running a certain process in one of the platform's modules weren't consistent, structured, informative enough. Backend team requested reworking of those messages.<br><br>
 
   <strong>Solution</strong><br>
   <em>Integration task run troubleshooting</em> page.<br>
-  Using the list of error cases and messages provided and explained by backend team, each case was recreated in a sandbox environment in order to see what exactly it looked like for the platform user, what was helpful in solving the issue and how the message should have been displayed.<br>
+  Using the list of error cases and messages provided and explained by backend team, I recreated and worked with each case in a sandbox environment in order to see what exactly it looked like for the platform user, what was helpful in solving the issue and how the message should have been displayed.<br>
   As a result of the first iteration:
   <ul>
     <li>error cases were categorized depending on the cause;</li>
@@ -28,6 +26,10 @@ toc_sticky: true
     <li>further developments were recommended for the module's backlog.</li>
   </ul>
   <br>     
+  
+  <strong>Platform and tools used</strong><br>
+  Docs site run on a static site generator; Git, VSCode, Markdown.<br><br> 
+
   <a href="/assets/images/teasers/trblsht.png"><img src="/assets/images/teasers/trblsht.png"></a><br>
   &nbsp;
 

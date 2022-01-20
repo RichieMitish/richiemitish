@@ -8,16 +8,17 @@ toc: true
 toc_sticky: true
 ---
 
-<div class="usecase">
+<div class="sampleinfo">
 
   <br>
-  <strong>USE CASE</strong> <br><br>
-
-  <strong>Problem</strong><br>
+  <strong>Request</strong><br>
   Since the company's products were distributed worldwide, it did make sense to put out video instructions on certain actions so that the owners would not have to deal with text translations or even text instructions at all.<br><br>
   
   <strong>Solution</strong><br>
-  For each device model, a few videos were recorded showing how to perform common actions and also those that statistically raised questions among the device owners.<br>
+  For each device model, I recorded and edited a few videos showing how to perform common actions and also those that statistically raised questions among the device owners.<br><br>
+
+  <strong>Tools used</strong><br>
+  Smartphone video editing tools, Movavi Video Editor<br> 
   &nbsp;
 
 </div>

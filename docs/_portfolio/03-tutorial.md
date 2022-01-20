@@ -8,18 +8,20 @@ toc: true
 toc_sticky: true
 ---
 
-<div class="usecase">
+<div class="sampleinfo">
 
   <br>
-  <strong>USE CASE</strong> <br><br>
-
-  <strong>Problem</strong><br>
+  <strong>Request</strong><br>
   The ETL platform required a tutorial on adding a new source to a module that was already up and running.
   <br><br>
 
   <strong>Solution</strong><br>
   <em>Add statistics from another source Integration</em> page.<br>
-  Since the platform's UI was rather techno-dependent, the tutorial had to also include examples with JSON-code and screenshots that would show where...<br>     
+  Having a certain demo scenario data set developed earlier, I extended it so that it could be used in this tutorial, too, forming a series of them. Since the platform's UI was rather techno-dependent, this tutorial had to also include examples with JSON-code, some parameters and screenshots that would show where exactly those should be used in the UI.<br><br> 
+
+  <strong>Platform and tools used</strong><br>
+  Docs site run on a static site generator; Git, VSCode, Markdown, Mac OS image editors.<br><br> 
+
   <a href="/assets/images/teasers/tutorial.png"><img src="/assets/images/teasers/tutorial.png"></a><br>
   &nbsp;
 

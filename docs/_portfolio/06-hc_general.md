@@ -8,17 +8,19 @@ toc: true
 toc_sticky: true
 ---
 
-<div class="usecase">
+<div class="sampleinfo">
 
   <br>
-  <strong>USE CASE</strong> <br><br>
-
-  <strong>Problem</strong><br>
+  <strong>Request</strong><br>
   The working principle of company's products used to be an object of many questions and doubts, often confused with other working principles causing a significant disappointment after the purchase. To make things clearer and help out both potential customers and those who had already purchased the device, we felt it necessary to put out this article in the company's Help Center.<br><br>
   
   <strong>Solution</strong><br>
   <em>Evaporative cooling: how to not feel disappointed</em> Help Center article.<br>
-  A few key points of the working principle were written out leading to the staple reasons and cases where those exact devices might not had been the best option to choose.<br><br>
+  In this article I wrote out a few key points of the devices' working principle leading to the staple reasons and cases where those exact devices might not had been the best option to choose.<br><br>
+  
+  <strong>Platform and tools used</strong><br>
+  Zendesk Help Center; platform's article editor.<br><br> 
+
   <a href="/assets/images/teasers/evapcooling.png"><img src="/assets/images/teasers/evapcooling.png"></a><br>
   &nbsp;
 
