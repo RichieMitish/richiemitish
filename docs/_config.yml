@@ -17,7 +17,7 @@ title_separator          : "-"
 subtitle                 : "Technical writer"
 name                     : &name "Richie Mitish" # &name is a YAML anchor which can be *referenced later
 description              : &description "Portfolio of a Technical writer"
-url                      : https://vcuriousfox.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://richiemitish.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
