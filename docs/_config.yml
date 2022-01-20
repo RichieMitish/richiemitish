@@ -109,26 +109,26 @@ author:
       # url: "https://your-website.com"
     - label: "RichieMitish"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/RichieMitish"
+      # url: "https://github.com/RichieMitish"
     - label: "richiemitish.github.io"
       icon: "fas fa-fw fa-link"
-      url: "richiemitish.github.io"
+      url: "https://richiemitish.github.io"
 
 # Site Footer
 footer:
   links:
-    - label: "Email"
+    - label: "richiemitish@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:your.name@email.com"
+      url: "richiemitish@gmail.com"
     - label: "hh.ru"
       icon: "fas fa-fw fa-link"
       url: "https://your-website.com"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://your-website.com"
+      # url: "https://your-website.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      # url: "https://github.com/"
 
 # Reading Files
 include:
