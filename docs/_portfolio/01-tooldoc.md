@@ -12,11 +12,11 @@ toc_sticky: true
 
   <br>
   <strong>Request</strong><br>
-  The ETL platform had a Visual editor that allowed building a data transformation flow diagram with its tools. Each tool required a documentation page for it, the one that would provide both technical info on how exactly the tool transforms data and a couple of examples for it.<br><br>
+  The SaaS ETL platform had a Visual editor that allowed building a data transformation flow diagram with its tools. Each tool required a documentation page for it, the one that would provide both technical info on how exactly the tool transforms data and a couple of examples for it.<br><br>
 
   <strong>Solution</strong><br>
-  <em>Data merging tools</em> pages with <em>Aggregate by Values</em> page (for that very tool) among others.<br>
-  For each tool I wrote a dedicated page that listed the tool's description, parameters to set, JSON-code templates and a couple of "original stats - the tool set a certain way - the resulting stats" style examples. All such pages had the same structure and features, like a JSON-code template copy button, that made it easier to work with the tools in Visual editor.<br><br>
+  <em>"Data merging tools"</em> pages with <em>"Aggregate by Values"</em> page (for that very tool) among others.<br>
+  For each tool I wrote a dedicated page that had the tool's description, parameters to set, JSON-code templates and a couple of "original stats &#8594; the tool set a certain way &#8594; the resulting stats" style examples. All such pages had the same structure and features, like a JSON-code template copy button, that made it easier to work with the tools in Visual editor.<br><br>
   
   <strong>Platform and tools used</strong><br>
   Docs site run on a static site generator; Git, VSCode, Markdown, Mac OS image editors.<br><br> 

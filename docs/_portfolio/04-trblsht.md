@@ -15,8 +15,8 @@ toc_sticky: true
   The error messages that appeared upon running a certain process in one of the platform's modules weren't consistent, structured, informative enough. Backend team requested reworking of those messages.<br><br>
 
   <strong>Solution</strong><br>
-  <em>Integration task run troubleshooting</em> page.<br>
-  Using the list of error cases and messages provided and explained by backend team, I recreated and worked with each case in a sandbox environment in order to see what exactly it looked like for the platform user, what was helpful in solving the issue and how the message should have been displayed.<br>
+  <em>"Integration task run troubleshooting"</em> page.<br>
+  Using the list of error cases and messages provided and explained by the Backend team, I recreated and worked with each case in a sandbox environment in order to see what exactly it looked like for the platform user, what was helpful in solving the issue and how the message should have been displayed.<br>
   As a result of the first iteration:
   <ul>
     <li>error cases were categorized depending on the cause;</li>

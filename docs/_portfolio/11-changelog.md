@@ -17,7 +17,7 @@ toc_sticky: true
   <strong>Solution</strong><br>
   In cooperation with DevOps engineer and developer teams leads, a changelog channel was launched and kept going. Each post consisted of a summary (that was also posted to the Telegram channel) and a detailed list of updates.<br> 
   The summary was telling about how exactly the updates were changing the current workfow for platform users, and the updates list was just going through them one by one. Both parts had links to the relevant pages of product documentation (updated with the new info prior to the changelog post being out).<br>
-  See the <em>Ver 1.26: a fresh new look and handy tools...</em> post text on this page.<br><br>
+  See the <em>"Ver 1.26: a fresh new look and handy tools..."</em> post text on this page.<br><br>
   
   <strong>Platform and tools used</strong><br>
   WordPress blog; WordPress posts editor, Mac OS image editors.<br><br> 

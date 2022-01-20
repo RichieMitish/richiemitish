@@ -12,13 +12,13 @@ toc_sticky: true
 
   <br>
   <strong>Request</strong><br>
-  The ETL platform had a specific feature that was crucial for many customers. The platform's UI was rather techno-dependent, so a detailed video tutorial on using this feature was requested.<br>
+  The SaaS ETL platform had a specific feature that was crucial for many customers. The platform's UI was rather techno-dependent, so a detailed video tutorial on using this feature was requested.<br>
   Since the feature was used by users of different access levels, it needed both shorter and more in-depth descriptions.<br>
   Also, a purely technical side of the platform - JSON-code - took a significant part in this feature and was often needed alone just to tweak this or that, so there had to be a specific fragment of tutorial that only elaborated on this particular part and its UI.<br><br>
 
   <strong>Solution</strong><br>
-  <em>Rates</em> page.<br>
-  For this set of tutorial I developed a proper scenario and data set to demonstrate all the sides of this feature. In cooperation with Support team, the key points of its daily usage were highlighted. For the shorter tutorial I created a simple video whereas the more in-depth one became a series of two videos plus an additional third one - with the purely technical part of the feature.<br><br>     
+  <em>"Rates"</em> page.<br>
+  For this set of tutorial I developed a proper scenario and data set to demonstrate all the sides of this feature. In cooperation with the Support team, the key points of its daily usage were highlighted. For the shorter tutorial I created a simple video whereas the more in-depth one became a series of two videos plus the additional third one - with the purely technical part of the feature.<br><br>     
   
   <strong>Platform and tools used</strong><br>
   Docs site run on a static site generator; Git, VSCode, Markdown, iMovie, Movavi Video Editor.<br><br> 

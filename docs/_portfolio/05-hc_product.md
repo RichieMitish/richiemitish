@@ -15,7 +15,7 @@ toc_sticky: true
   Company's product line needed a proper description of each product.<br><br>
   
   <strong>Solution</strong><br>
-  <em>How are the three devices different</em> Help center article.<br>
+  <em>"How are the three devices different"</em> Help Center article.<br>
   To gather all the points on a single page, I wrote a text that was telling about each device. It was not only listing their features but also pointing out the differences in devices' usage that they would make for a device owner.<br><br>
   
   <strong>Platform and tools used</strong><br>
@@ -52,6 +52,3 @@ work longer.
 
 The golden mean of our product line is <a class="demolink" href="">**evaLlGHT plus**</a>, the re-developed evaLlGHT that was our very first product and world's first evaporative personal air cooler (more info about their differences here: <a class="demolink" href="">evaLlGHT EV-1000 vs evaLlGHT plus EV-1500</a>). Full spectrum LED lighting, stylish control wheel and informative round screen, removable water tank provides all the basic features and some more means to create the personal microclimate around you. Light enough to be moved around the house saving your electricity bills: power consumption is only 10W. With the power level notification <a class="demolink" href="">**evaLlGHT plus**</a> will let you know if the supplied power happens to not be sufficient enough, so that you could switch to an appropriate power supply instead. For your convenience, both screen backlight and LED lighting can be turned off and dimmed for the night time bringing you the nice 
 peaceful sleep.
-
-
-## Tech specs

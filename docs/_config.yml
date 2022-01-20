@@ -100,7 +100,7 @@ author:
   links:
     - label: "richiemitish@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
-      url: "richiemitish@gmail.com"
+      url: "mailto:richiemitish@gmail.com"
     - label: "hh.ru"
       icon: "fas fa-fw fa-link"
       url: "https://your-website.com"
@@ -109,7 +109,7 @@ author:
       # url: "https://your-website.com"
     - label: "RichieMitish"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/RichieMitish"
+      url: "https://github.com/RichieMitish"
     - label: "richiemitish.github.io"
       icon: "fas fa-fw fa-link"
       url: "https://richiemitish.github.io"
@@ -119,16 +119,16 @@ footer:
   links:
     - label: "richiemitish@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
-      url: "richiemitish@gmail.com"
+      url: "mailto:richiemitish@gmail.com"
     - label: "hh.ru"
       icon: "fas fa-fw fa-link"
       url: "https://your-website.com"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       # url: "https://your-website.com"
-    - label: "GitHub"
+    - label: "RichieMitish"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/RichieMitish"
 
 # Reading Files
 include:
