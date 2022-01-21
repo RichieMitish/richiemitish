@@ -15,7 +15,7 @@ async function buttonBlink(btn, style) {
 // End
 
 
-// Select highlghted codes
+// Select highlighted codes
 var codeChunk = document.querySelectorAll("pre.highlight");
 
 // Loop to add buttons
