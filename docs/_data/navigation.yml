@@ -23,7 +23,7 @@ portfolio:
         url: /portfolio/05-hc_product/
       - title: "Working principle info"
         url: /portfolio/06-hc_general/
-  - title: Text designed
+  - title: Designed
     children:
       - title: "Marketing whitepaper"
         url: /portfolio/07-markwp/ 
