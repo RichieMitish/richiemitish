@@ -184,8 +184,8 @@ a {
   text-align: center;
   border-radius: 5px;
   padding: 5px 5px;
-  /* padding: 5px 0; */
-  transition: opacity 1s ease-in-out;
+  /* padding: 5px 0; 
+  transition: opacity 1s ease-in-out; */
 
   position: absolute;
   z-index: 1;
@@ -196,7 +196,7 @@ a {
 .demolink:hover:before {
   opacity: 1;
   visibility: visible;
-}
+} 
 
 
 /* buttons */
