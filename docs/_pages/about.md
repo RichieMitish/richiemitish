@@ -4,6 +4,7 @@ title: "About"
 layout: single
 excerpt: "Обо мне"
 toc: true
+toc_sticky: true
 author_profile: true
 ---
 
